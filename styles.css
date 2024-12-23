@@ -18,3 +18,9 @@
     padding: 0px 20px;
     color: White;
 }
+.main{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgb(33, 34, 33), rgb(33, 34, 33));
+}
